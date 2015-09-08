@@ -5,7 +5,7 @@
 	<header class="has-background background-base hero">
 		<div class="clearfix wrap">
 			<p class="col-lg--eightcol col--centered">
-				We have a wealth of resources for <a href="#">every grade level</a>, from 
+				We have a wealth of resources for <a href="<?php echo esc_url( get_category_link( '4' ) ) ?>">every grade level</a>, from 
 				an early world of learning for preschools to classroom lesson plans for 
 				elementary, middle and high school teachers, and even free online practice 
 				tests and scholarship search assistance for your students. 
@@ -28,6 +28,13 @@
 	    
 	    <a href="<?php echo esc_url( get_category_link( '10' ) ) ?>" class="col-sm--twelvecol col-lg--eightcol card media menu__item">
 	      <img src="http://public.library.nova.edu/teachers/wp-content/uploads/sites/2/2015/09/tr-worldbook.jpg" alt="" />
+
+<!--<img src="//www.syndetics.com/.../lc.gif"
+     srcset="//www.syndetics.com/.../sc.gif 320w,
+             //www.syndetics.com/.../mc.gif 720w,
+             //www.syndetics.com/.../lc.gif 1024w"
+     alt=""/>-->
+
 	      <span class="menu__item__content">
 	        <h3 class="menu__item__title">World Book</h3>
 	        <span class="zeta">
@@ -67,7 +74,7 @@
 			</span>    
 	    </a>
 
-	    <a href="<?php echo esc_url( get_category_link( '16' ) ) ?>" class="col-sm--sixcol col-lg--fourcol card media menu__item"><img src="http://placehold.it/500x281" alt="" />
+	    <a href="<?php echo esc_url( get_category_link( '16' ) ) ?>" class="col-sm--sixcol col-lg--fourcol card media menu__item"><img src="http://public.library.nova.edu/teachers/wp-content/uploads/sites/2/2015/09/tr-language.jpg" alt="" />
 	      <span class="menu__item__content">
 	        <h3 class="menu__item__title">Foreign Language and ESL</h3>
 	        <span class="zeta">
@@ -76,7 +83,7 @@
 	      </span>    
 	    </a>
 
-	    <a href="<?php echo esc_url( get_category_link( '17' ) ) ?>" class="col-sm--sixcol col-lg--fourcol card media menu__item"><img src="http://placehold.it/500x281" alt="" />
+	    <a href="<?php echo esc_url( get_category_link( '17' ) ) ?>" class="col-sm--sixcol col-lg--fourcol card media menu__item"><img src="http://public.library.nova.edu/teachers/wp-content/uploads/sites/2/2015/09/tr-general.jpg" alt="" />
 	      <span class="menu__item__content">
 	        <h3 class="menu__item__title">General</h3>
 	        <span class="zeta">
@@ -116,7 +123,7 @@
 	    </a>
 
 	    <a href="#" class="col-sm--twelvecol col-lg--sixcol card media menu__item">
-	    	<img src="http://placehold.it/500x281" alt="" />
+	    	<img src="http://public.library.nova.edu/teachers/wp-content/uploads/sites/2/2015/09/tr-homeschool.jpg" alt="" />
 	      <span class="menu__item__content">
 	        <h3 class="menu__item__title">Parent Educators</h3>
 	        <span class="zeta">

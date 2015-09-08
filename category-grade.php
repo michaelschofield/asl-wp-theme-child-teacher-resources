@@ -12,7 +12,7 @@
 	<nav class="clearfix menu menu--gallery">
 	    
 	    <a href="<?php echo esc_url( get_category_link( '13' ) ) ?>" class="col-sm--twelvecol col-lg--sixcol card media menu__item">
-	      <img src="http://placehold.it/500x281" alt="" />
+	      <img src="http://public.library.nova.edu/teachers/wp-content/uploads/sites/2/2015/09/tr-preschool.jpg" alt="" />
 	      <span class="menu__item__content">
 	        <h3 class="menu__item__title">Preschool</h3>
 	        <span class="zeta">
@@ -22,7 +22,7 @@
 	    </a>
 
 	    <a href="<?php echo esc_url( get_category_link( '8' ) ) ?>" class="col-sm--twelvecol col-lg--sixcol card media menu__item">
-	      <img src="http://placehold.it/500x281" alt="" />
+	      <img src="http://public.library.nova.edu/teachers/wp-content/uploads/sites/2/2015/09/tr-elementary.jpg" alt="" />
 	      <span class="menu__item__content">
 	        <h3 class="menu__item__title">Elementary School</h3>
 	        <span class="zeta">
@@ -33,7 +33,7 @@
 	    </a>
 
 	    <a href="<?php echo esc_url( get_category_link( '5' ) ) ?>" class="col-sm--twelvecol col-lg--sixcol card media menu__item">
-	      <img src="http://placehold.it/500x281" alt="" />
+	      <img src="http://public.library.nova.edu/teachers/wp-content/uploads/sites/2/2015/09/tr-middleschool.jpg" alt="" />
 	      <span class="menu__item__content">
 	        <h3 class="menu__item__title">Middle School</h3>
 	        <span class="zeta">
@@ -44,7 +44,7 @@
 	    </a>
 	    
 	    <a href="<?php echo esc_url( get_category_link( '6' ) ) ?>" class="col-sm--twelvecol col-lg--sixcol card media menu__item">
-	      <img src="http://placehold.it/500x281" alt="" />
+	      <img src="http://public.library.nova.edu/teachers/wp-content/uploads/sites/2/2015/09/tr-highschool.jpg" alt="" />
 	      <span class="menu__item__content">
 	        <h3 class="menu__item__title">High School</h3>
 	        <span class="zeta">
